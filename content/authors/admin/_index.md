@@ -25,8 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Public Policy (Harris School)
-    institution: The University of Chicago
+  - course: Master of Public Policy
+    institution: Harris School, The University of Chicago
     year: 2017
   - course: B.Tech in Instrumentation and Control Systems
     institution: NIT Trichy, India
